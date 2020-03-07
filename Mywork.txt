@@ -1,0 +1,13 @@
+My Associate ID:844956
+My Team Members:
+1)845031
+2)845066
+3)844957
+Team Lead:
+845031
+My Role in Team:
+1.To develop the place Gift Card Order Page form completely and its validations.I developed the page by using ReactiveForms
+My Development Files:
+1.place-gift-card.html
+2.place-gift-card.css
+3.place-gift-card.ts
